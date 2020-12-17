@@ -36,6 +36,7 @@
 
     <build>
         <plugins>
+            <!-- Springboot项目打包文件-->
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>

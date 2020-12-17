@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/001-spring-first/001-spring-first.iml" filepath="$PROJECT_DIR$/001-spring-first/001-spring-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-springboot-springmvc/002-springboot-springmvc.iml" filepath="$PROJECT_DIR$/002-springboot-springmvc/002-springboot-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003-springboot-context-path/003-springboot-context-path.iml" filepath="$PROJECT_DIR$/003-springboot-context-path/003-springboot-context-path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004-springboot-proerties-yml-yaml/004-springboot-proerties-yml-yaml.iml" filepath="$PROJECT_DIR$/004-springboot-proerties-yml-yaml/004-springboot-proerties-yml-yaml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006-springboot-multi-environment-properties/006-springboot-multi-environment-properties.iml" filepath="$PROJECT_DIR$/006-springboot-multi-environment-properties/006-springboot-multi-environment-properties.iml" />
     </modules>
   </component>
 </project>
