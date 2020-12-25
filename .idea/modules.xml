@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/003-springboot-context-path/003-springboot-context-path.iml" filepath="$PROJECT_DIR$/003-springboot-context-path/003-springboot-context-path.iml" />
       <module fileurl="file://$PROJECT_DIR$/004-springboot-proerties-yml-yaml/004-springboot-proerties-yml-yaml.iml" filepath="$PROJECT_DIR$/004-springboot-proerties-yml-yaml/004-springboot-proerties-yml-yaml.iml" />
       <module fileurl="file://$PROJECT_DIR$/006-springboot-multi-environment-properties/006-springboot-multi-environment-properties.iml" filepath="$PROJECT_DIR$/006-springboot-multi-environment-properties/006-springboot-multi-environment-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/008-springboot-custom-confiauration/008-springboot-custom-confiauration.iml" filepath="$PROJECT_DIR$/008-springboot-custom-confiauration/008-springboot-custom-confiauration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009-springboot-custom-configuragion-2/009-springboot-custom-configuragion-2.iml" filepath="$PROJECT_DIR$/009-springboot-custom-configuragion-2/009-springboot-custom-configuragion-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/010-springboot-jsp/010-springboot-jsp.iml" filepath="$PROJECT_DIR$/010-springboot-jsp/010-springboot-jsp.iml" />
     </modules>
   </component>
 </project>

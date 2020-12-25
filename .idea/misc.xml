@@ -8,6 +8,9 @@
         <option value="$PROJECT_DIR$/003-springboot-context-path/pom.xml" />
         <option value="$PROJECT_DIR$/004-springboot-proerties-yml-yaml/pom.xml" />
         <option value="$PROJECT_DIR$/006-springboot-multi-environment-properties/pom.xml" />
+        <option value="$PROJECT_DIR$/008-springboot-custom-confiauration/pom.xml" />
+        <option value="$PROJECT_DIR$/009-springboot-custom-configuragion-2/pom.xml" />
+        <option value="$PROJECT_DIR$/010-springboot-jsp/pom.xml" />
       </list>
     </option>
   </component>
