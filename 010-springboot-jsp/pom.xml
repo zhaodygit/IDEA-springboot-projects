@@ -25,13 +25,30 @@
         </dependency>
 
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-jasper</artifactId>
         </dependency>
+
     </dependencies>
 
     <build>
+        <!--Springboot项目默认推荐的前端引擎是thymeleaf
+            Springboot集成jsp, 手动指定jsp最后编译的路径
+            Springboot集成编译jsp的路径是Springboot规定好的位置
+            META-INF/resources
+        -->
+        <resources>
+            <resource>
+                <!--源文件夹-->
+                <directory>src/main/webapp</directory>
+                <!--指定编译到META_INF/resources-->
+                <targetPath>META-INF/resources</targetPath>
+                <!--指定源文件夹中的哪些资源药编译进行-->
+                <includes>
+                    <include>*.*</include>
+                </includes>
+            </resource>
+        </resources>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
