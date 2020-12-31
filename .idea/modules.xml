@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/008-springboot-custom-confiauration/008-springboot-custom-confiauration.iml" filepath="$PROJECT_DIR$/008-springboot-custom-confiauration/008-springboot-custom-confiauration.iml" />
       <module fileurl="file://$PROJECT_DIR$/009-springboot-custom-configuragion-2/009-springboot-custom-configuragion-2.iml" filepath="$PROJECT_DIR$/009-springboot-custom-configuragion-2/009-springboot-custom-configuragion-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/010-springboot-jsp/010-springboot-jsp.iml" filepath="$PROJECT_DIR$/010-springboot-jsp/010-springboot-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/011-springboot-myself/011-springboot-myself.iml" filepath="$PROJECT_DIR$/011-springboot-myself/011-springboot-myself.iml" />
+      <module fileurl="file://$PROJECT_DIR$/012-springboot-mybatis/012-springboot-mybatis.iml" filepath="$PROJECT_DIR$/012-springboot-mybatis/012-springboot-mybatis.iml" />
     </modules>
   </component>
 </project>
