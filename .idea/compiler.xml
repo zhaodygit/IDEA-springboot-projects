@@ -6,19 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="016-springboot-trainsantion" />
-        <module name="003-springboot-context-path" />
-        <module name="011-springboot-myself" />
+        <module name="017-springboot-springmvc" />
+        <module name="019-springboot-redis" />
         <module name="002-springboot-springmvc" />
-        <module name="009-springboot-custom-configuragion-2" />
-        <module name="001-spring-first" />
-        <module name="015-springboot-mybatis-4" />
-        <module name="014-springboot-mybatis-3" />
-        <module name="012-springboot-mybatis" />
-        <module name="008-springboot-custom-confiauration" />
         <module name="010-springboot-jsp" />
-        <module name="004-springboot-proerties-yml-yaml" />
+        <module name="008-springboot-custom-confiauration" />
+        <module name="011-springboot-myself" />
+        <module name="020-springboot-dubbo-interface" />
+        <module name="014-springboot-mybatis-3" />
+        <module name="003-springboot-context-path" />
+        <module name="016-springboot-trainsantion" />
+        <module name="012-springboot-mybatis" />
+        <module name="021-springboot-dobbo-provide" />
         <module name="006-springboot-multi-environment-properties" />
+        <module name="018-springboot-restful" />
+        <module name="022-springboot-consumer" />
+        <module name="009-springboot-custom-configuragion-2" />
+        <module name="015-springboot-mybatis-4" />
+        <module name="004-springboot-proerties-yml-yaml" />
+        <module name="001-spring-first" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -35,6 +41,12 @@
       <module name="014-springboot-mybatis-3" target="1.8" />
       <module name="015-springboot-mybatis-4" target="1.8" />
       <module name="016-springboot-trainsantion" target="1.8" />
+      <module name="017-springboot-springmvc" target="1.8" />
+      <module name="018-springboot-restful" target="1.8" />
+      <module name="019-springboot-redis" target="1.8" />
+      <module name="020-springboot-dubbo-interface" target="1.5" />
+      <module name="021-springboot-dobbo-provide" target="1.8" />
+      <module name="022-springboot-consumer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

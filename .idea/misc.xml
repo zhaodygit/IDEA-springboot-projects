@@ -17,6 +17,12 @@
         <option value="$PROJECT_DIR$/014-springboot-mybatis-3/pom.xml" />
         <option value="$PROJECT_DIR$/015-springboot-mybatis-4/pom.xml" />
         <option value="$PROJECT_DIR$/016-springboot-trainsantion/pom.xml" />
+        <option value="$PROJECT_DIR$/017-springboot-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/018-springboot-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/019-springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/020-springboot-dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/021-springboot-dobbo-provide/pom.xml" />
+        <option value="$PROJECT_DIR$/022-springboot-consumer/pom.xml" />
       </list>
     </option>
   </component>
