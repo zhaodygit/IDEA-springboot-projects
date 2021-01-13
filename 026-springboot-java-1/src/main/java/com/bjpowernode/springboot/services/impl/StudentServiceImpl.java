@@ -1,9 +1,12 @@
 package com.bjpowernode.springboot.services.impl;
 
 import com.bjpowernode.springboot.services.StudentService;
+import org.springframework.stereotype.Service;
 
+@Service
 public class StudentServiceImpl implements StudentService {
-    public Integer queryAllSutdentCount() {
-        return null;
+    @Override
+    public String sayHello() {
+        return "Say Hello";
     }
 }

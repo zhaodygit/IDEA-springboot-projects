@@ -21,8 +21,13 @@
         <option value="$PROJECT_DIR$/018-springboot-restful/pom.xml" />
         <option value="$PROJECT_DIR$/019-springboot-redis/pom.xml" />
         <option value="$PROJECT_DIR$/020-springboot-dubbo-interface/pom.xml" />
-        <option value="$PROJECT_DIR$/021-springboot-dobbo-provide/pom.xml" />
-        <option value="$PROJECT_DIR$/022-springboot-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/021-springboot-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/022-springboot-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/023-springboot-dubbo-ssm-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/024-springboot-dubbo-ssm-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/025-springboot-dubbo-ssm-consume/pom.xml" />
+        <option value="$PROJECT_DIR$/026-springboot-java-1/pom.xml" />
+        <option value="$PROJECT_DIR$/027-springboot-java-2/pom.xml" />
       </list>
     </option>
   </component>

@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.bjpowernode.springboot</groupId>
-    <artifactId>020-springboot-dubbo-interface</artifactId>
+    <artifactId>023-springboot-dubbo-ssm-interface</artifactId>
     <version>1.0.0</version>
 
 

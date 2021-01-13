@@ -10,19 +10,25 @@
         <module name="019-springboot-redis" />
         <module name="002-springboot-springmvc" />
         <module name="010-springboot-jsp" />
+        <module name="026-springboot-java-1" />
+        <module name="027-springboot-java-2" />
+        <module name="022-springboot-dubbo-consumer" />
         <module name="008-springboot-custom-confiauration" />
-        <module name="011-springboot-myself" />
-        <module name="020-springboot-dubbo-interface" />
-        <module name="014-springboot-mybatis-3" />
-        <module name="003-springboot-context-path" />
-        <module name="016-springboot-trainsantion" />
-        <module name="012-springboot-mybatis" />
-        <module name="021-springboot-dobbo-provide" />
         <module name="006-springboot-multi-environment-properties" />
+        <module name="021-springboot-dubbo-provider" />
+        <module name="011-springboot-myself" />
+        <module name="023-springboot-dubbo-ssm-interface" />
+        <module name="003-springboot-context-path" />
+        <module name="024-springboot-dubbo-ssm-provider" />
+        <module name="015-springboot-mybatis-4" />
+        <module name="016-springboot-trainsantion" />
+        <module name="025-springboot-dubbo-ssm-consume" />
+        <module name="020-springboot-dubbo-interface" />
         <module name="018-springboot-restful" />
+        <module name="012-springboot-mybatis" />
         <module name="022-springboot-consumer" />
         <module name="009-springboot-custom-configuragion-2" />
-        <module name="015-springboot-mybatis-4" />
+        <module name="014-springboot-mybatis-3" />
         <module name="004-springboot-proerties-yml-yaml" />
         <module name="001-spring-first" />
       </profile>
@@ -46,7 +52,14 @@
       <module name="019-springboot-redis" target="1.8" />
       <module name="020-springboot-dubbo-interface" target="1.5" />
       <module name="021-springboot-dobbo-provide" target="1.8" />
+      <module name="021-springboot-dubbo-provider" target="1.8" />
       <module name="022-springboot-consumer" target="1.8" />
+      <module name="022-springboot-dubbo-consumer" target="1.8" />
+      <module name="023-springboot-dubbo-ssm-interface" target="1.5" />
+      <module name="024-springboot-dubbo-ssm-provider" target="1.8" />
+      <module name="025-springboot-dubbo-ssm-consume" target="1.8" />
+      <module name="026-springboot-java-1" target="1.8" />
+      <module name="027-springboot-java-2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -64,6 +77,13 @@
       <module name="014-springboot-mybatis-3" options="-parameters" />
       <module name="015-springboot-mybatis-4" options="-parameters" />
       <module name="016-springboot-trainsantion" options="-parameters" />
+      <module name="021-springboot-dubbo-provider" options="-parameters" />
+      <module name="022-springboot-consumer" options="-parameters" />
+      <module name="022-springboot-dubbo-consumer" options="-parameters" />
+      <module name="024-springboot-dubbo-ssm-provider" options="-parameters" />
+      <module name="025-springboot-dubbo-ssm-consume" options="-parameters" />
+      <module name="026-springboot-java-1" options="-parameters" />
+      <module name="027-springboot-java-2" options="-parameters" />
     </option>
   </component>
 </project>
